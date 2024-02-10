@@ -1,0 +1,290 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1152px;
+  height: 700px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  height: 700px;
+  background-color: #ec5863;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 592px;
+  height: 622px;
+  top: 41px;
+  left: 49px;
+  background-color: #f8f6fe;
+  border-radius: 20.51px;
+}
+
+.frame .illustration {
+  position: absolute;
+  width: 492px;
+  height: 355px;
+  top: 132px;
+  left: 50px;
+}
+
+.frame .div {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 27.34px;
+  position: absolute;
+  top: 207px;
+  left: 738px;
+}
+
+.frame .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.68px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32.8px;
+  letter-spacing: 0;
+  line-height: 16.4px;
+  white-space: nowrap;
+}
+
+.frame .div-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20.51px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3.42px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .welcomeback-fabiana {
+  position: relative;
+  width: 304.2px;
+  margin-top: -0.68px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: var(--white-500);
+  font-size: 20.5px;
+  letter-spacing: 0;
+  line-height: 27.3px;
+}
+
+.frame .welcomeback-fabiana-2 {
+  width: 304.2px;
+  font-family: "Rubik", Helvetica;
+  color: var(--white-500);
+  font-size: 10.9px;
+  line-height: 16.4px;
+  position: relative;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.frame .div-4 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10.94px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 13.67px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .input {
+  display: flex;
+  flex-direction: column;
+  width: 304.2px;
+  align-items: flex-start;
+  gap: 6.84px;
+  padding: 4.79px 10.94px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 6.84px;
+  border: 0.68px solid;
+  border-color: var(--primary-500);
+}
+
+.frame .div-6 {
+  display: flex;
+  align-items: center;
+  gap: 6.84px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .div-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.68px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.frame .text {
+  position: relative;
+  align-self: stretch;
+  margin-top: -0.68px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 300;
+  color: #4285f4;
+  font-size: 7.5px;
+  letter-spacing: 0;
+  line-height: 10.9px;
+}
+
+.frame .text-2 {
+  color: var(--white-500);
+  font-size: 10.9px;
+  line-height: 16.4px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Lexend", Helvetica;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.frame .text-3 {
+  margin-top: -0.68px;
+  color: #4285f4;
+  font-size: var(--label-regular-font-size);
+  line-height: var(--label-regular-line-height);
+  position: relative;
+  align-self: stretch;
+  font-family: var(--label-regular-font-family);
+  font-weight: var(--label-regular-font-weight);
+  letter-spacing: var(--label-regular-letter-spacing);
+  font-style: var(--label-regular-font-style);
+}
+
+.frame .text-4 {
+  color: var(--white-500);
+  font-size: 16px;
+  line-height: 24px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Lexend", Helvetica;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.frame .img {
+  position: relative;
+  width: 16.41px;
+  height: 16.41px;
+}
+
+.frame .div-8 {
+  display: flex;
+  align-items: center;
+  gap: 102.54px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .checkbox {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6.84px;
+  padding: 0px 10.94px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .checkbox-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.68px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 300;
+  color: var(--white-500);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.frame .welcomeback-fabiana-3 {
+  width: fit-content;
+  margin-top: -0.18px;
+  font-family: "Lexend", Helvetica;
+  color: var(--primary-500);
+  font-size: 9.6px;
+  text-align: right;
+  line-height: 15px;
+  white-space: nowrap;
+  position: relative;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.frame .button {
+  display: flex;
+  width: 304.2px;
+  height: 38.28px;
+  align-items: center;
+  justify-content: center;
+  gap: 6.84px;
+  padding: 13.67px;
+  position: relative;
+  background-color: #4285f4;
+  border-radius: 6.84px;
+}
+
+.frame .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: fit-content;
+  margin-top: -3.71px;
+  margin-bottom: -2.35px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 300;
+  color: var(--white-500);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.frame .logo {
+  position: absolute;
+  width: 44px;
+  height: 32px;
+  top: 157px;
+  left: 738px;
+}
